@@ -2,6 +2,8 @@
 
 This is a project for synchronize data from a database to another database.
 
+Main
+
 ## Stack
 
 -   Ruby (v3.0.2)
